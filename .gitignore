@@ -1,0 +1,12 @@
+# OAuth credentials
+config.bzg
+
+# SSL certificates and private keys
+cert/
+*.pem
+*.key
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode/
